@@ -142,5 +142,6 @@ gradle-app.setting
 **/build/
 
 .idea/*
+tokens/*
 
 # End of https://www.gitignore.io/api/macos,maven,gradle,intellij
